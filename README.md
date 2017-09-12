@@ -1,2 +1,2 @@
-# Shopster
+# Shopster Android App
 Example Project
